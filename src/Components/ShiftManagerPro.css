@@ -27,6 +27,10 @@
   );
   color: white;
   border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
 }
 .shift-manager-pro-description-header {
   font-size: 1.4vw;

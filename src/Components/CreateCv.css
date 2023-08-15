@@ -1,29 +1,29 @@
-#realestate-container {
+#createcv-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin: 3vw;
 }
-.findmynest-container {
+.createcv-container {
   width: 30vw;
   height: 30vw;
   border-radius: 20px;
 }
-#realestate-header {
+#createcv-header {
   font-size: 3vw;
   color: black;
   margin-bottom: 20px;
 }
 
-#findmynest-container-back {
+#createcv-container-back {
   padding: 20px;
   width: 100%;
   height: 100%;
   background: radial-gradient(
     circle,
-    rgb(95, 234, 26) 0%,
-    rgb(23, 182, 34) 100%
+    rgb(249, 49, 31) 0%,
+    rgb(198, 15, 15) 100%
   );
   color: white;
   border-radius: 20px;
@@ -32,10 +32,10 @@
   align-items: center;
   justify-content: space-around;
 }
-.findmynest-description-header {
+.createcv-description-header {
   font-size: 1.4vw;
 }
-#findmynest-picture {
+#createcv-picture {
   width: 100%;
   height: 100%;
   object-fit: cover;
