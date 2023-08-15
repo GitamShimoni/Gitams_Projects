@@ -1,0 +1,39 @@
+#realestate-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 3vw;
+}
+.findmynest-container {
+  width: 30vw;
+  height: 30vw;
+  border-radius: 20px;
+}
+#realestate-header {
+  font-size: 3vw;
+  color: black;
+  margin-bottom: 20px;
+}
+
+#findmynest-container-back {
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle,
+    rgb(95, 234, 26) 0%,
+    rgb(23, 182, 34) 100%
+  );
+  color: white;
+  border-radius: 20px;
+}
+.findmynest-description-header {
+  font-size: 1.4vw;
+}
+#findmynest-picture {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+#homepage-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#homepage-main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+#main-homepage-header {
+  font-size: 4vw;
+  color: black;
+}

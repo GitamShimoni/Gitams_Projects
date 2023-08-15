@@ -1,0 +1,39 @@
+#shiftmanagerpro-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 3vw;
+}
+.shift-manager-pro-container {
+  width: 30vw;
+  height: 30vw;
+  border-radius: 20px;
+}
+#shiftmanagerpro-header {
+  font-size: 3vw;
+  color: black;
+  margin-bottom: 20px;
+}
+
+#shift-manager-pro-container-back {
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    circle,
+    rgb(117, 126, 247) 0%,
+    rgb(101, 70, 241) 100%
+  );
+  color: white;
+  border-radius: 20px;
+}
+.shift-manager-pro-description-header {
+  font-size: 1.4vw;
+}
+#shift-manager-pro-picture {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
