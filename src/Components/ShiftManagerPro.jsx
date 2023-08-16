@@ -11,7 +11,11 @@ const ShiftManagerPro = () => {
   return (
     <div id="shiftmanagerpro-container">
       <h1 id="shiftmanagerpro-header">Shift Manager Pro</h1>
-      <a href="https://shiftmanagerpro.netlify.app/">
+      <a
+        rel="noopener noreferrer"
+        href="https://shiftmanagerpro.netlify.app/"
+        target="_blank"
+      >
         <ReactFlipCard
           frontStyle={styles.card}
           backStyle={styles.card}

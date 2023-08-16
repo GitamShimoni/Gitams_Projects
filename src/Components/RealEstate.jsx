@@ -11,7 +11,11 @@ const RealEstate = () => {
   return (
     <div id="realestate-container">
       <h1 id="realestate-header">FindMyNest</h1>
-      <a href="https://findmynest.netlify.app/">
+      <a
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://findmynest.netlify.app/"
+      >
         <ReactFlipCard
           frontStyle={styles.card}
           backStyle={styles.card}

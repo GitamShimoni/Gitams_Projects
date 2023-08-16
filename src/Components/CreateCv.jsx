@@ -10,8 +10,12 @@ const CreateCv = () => {
   };
   return (
     <div id="createcv-container">
-      <h1 id="createcv-header">FindMyNest</h1>
-      <a href="https://create-acv.netlify.app/">
+      <h1 id="createcv-header">CreateCv</h1>
+      <a
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://create-acv.netlify.app/"
+      >
         <ReactFlipCard
           frontStyle={styles.card}
           backStyle={styles.card}
@@ -20,7 +24,7 @@ const CreateCv = () => {
             <img
               id="createcv-picture"
               src="https://i.ibb.co/xYnSyJh/3.png"
-              alt="Shift Manager Pro Image"
+              alt="Create CV"
             />
           }
           backComponent={
