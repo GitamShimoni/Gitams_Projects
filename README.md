@@ -4,7 +4,9 @@ Welcome to Gitam’s Projects repository! Here, I showcase a collection of my fa
 Project Highlights:
 # 1. Wakey
 # Description: Wakey is a web application that assists users in waking up before they reach their public transportation destinations.
-* Screenshot: *Need to add
+<img width="269" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/6537de9e-837f-4438-9928-53a5e12243aa">
+
+
 * Repository Link: https://github.com/GitamShimoni/Wakey-frontend
 * Website Link: https://wakeyapp.netlify.app/
 
