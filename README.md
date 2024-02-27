@@ -5,6 +5,10 @@ Project Highlights:
 # 1. Wakey
 # Description: Wakey is a web application that assists users in waking up before they reach their public transportation destinations.
 <img width="269" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/6537de9e-837f-4438-9928-53a5e12243aa">
+<img width="276" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/a008f751-42a9-4751-a8c4-d2fe2b9093f0">
+<img width="272" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/aabac64a-5490-4e13-8262-9d0eb8c6d4b0">
+
+
 
 
 * Repository Link: https://github.com/GitamShimoni/Wakey-frontend
