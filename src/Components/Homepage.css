@@ -12,5 +12,19 @@
 }
 #main-homepage-header {
   font-size: 4vw;
-  color: black;
+  color: white;
+  padding: 30px 0 8px;
+  position: relative;
+  margin-bottom: 4vw;
+}
+#main-homepage-header:before {
+  content: "";
+  position: absolute;
+  right: -28vw;
+  bottom: -0.6vw;
+  width: 105%;
+  height: 14px;
+  transform: skew(-12deg) translateX(-50%);
+  background: rgba(236, 173, 36, 0.5);
+  z-index: 2;
 }
