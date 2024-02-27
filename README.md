@@ -4,9 +4,10 @@ Welcome to Gitam’s Projects repository! Here, I showcase a collection of my fa
 Project Highlights:
 # 1. Wakey
 # Description: Wakey is a web application that assists users in waking up before they reach their public transportation destinations.
-<img width="269" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/6537de9e-837f-4438-9928-53a5e12243aa">
-<img width="276" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/a008f751-42a9-4751-a8c4-d2fe2b9093f0">
-<img width="272" alt="image" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/aabac64a-5490-4e13-8262-9d0eb8c6d4b0">
+<img width="269" alt="Screenshot1" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/6537de9e-837f-4438-9928-53a5e12243aa">
+<img width="270" alt="Search by location" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/993ff470-c259-478b-b965-be8497e2cdb2">
+<img width="276" alt="In trip popup" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/a008f751-42a9-4751-a8c4-d2fe2b9093f0">
+<img width="272" alt="Settings" src="https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/aabac64a-5490-4e13-8262-9d0eb8c6d4b0">
 
 
 
