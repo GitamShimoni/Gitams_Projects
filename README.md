@@ -13,6 +13,7 @@ Project Highlights:
 # 2. Cv_Creator
 * Description: a user-friendly web application that simplifies CV creation using professionally designed templates.
 * Screenshot: https://i.ibb.co/xYnSyJh/3.png
+* Screenshot: ![3](https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/65be04e4-e889-4d57-b6e5-7fd0bae30a60)
 * Repository Link: https://github.com/GitamShimoni/CvCreator_frontend
 * Website Link: https://create-acv.netlify.app/
 
