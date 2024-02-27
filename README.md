@@ -12,8 +12,9 @@ Project Highlights:
 
 # 2. Cv_Creator
 * Description: a user-friendly web application that simplifies CV creation using professionally designed templates.
-* Screenshot: https://i.ibb.co/xYnSyJh/3.png
-* Screenshot: ![3](https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/65be04e4-e889-4d57-b6e5-7fd0bae30a60)
+* ![3](https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/65be04e4-e889-4d57-b6e5-7fd0bae30a60)
+
+  
 * Repository Link: https://github.com/GitamShimoni/CvCreator_frontend
 * Website Link: https://create-acv.netlify.app/
 
@@ -21,7 +22,9 @@ Project Highlights:
 
 # 3. ShiftManager
 * Description: A comprehensive shift management system designed to streamline workforce scheduling and coordination. This project features both an admin and user side.
-* Screenshot: https://i.ibb.co/2cDZKzt/2.png
+* ![2](https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/afa50d48-1dc0-4340-99ae-d4d6b76454ae)
+
+
 * Repository Link: https://github.com/GitamShimoni/ShiftManager-frontend
 * Website Link: https://shiftmanagerpro.netlify.app/
 
@@ -29,7 +32,9 @@ Project Highlights:
 
 # 4. FindMyNest
 * Description: A frontend-focused website that emulates the functionality of a real estate platform.
-* Screenshot: https://i.ibb.co/0nQVZfg/3.png
+* ![3](https://github.com/GitamShimoni/Gitams_Projects/assets/11949650/67d4f5be-e88a-4571-9307-421575f5ed5c)
+
+
 * Repository Link: https://github.com/GitamShimoni/RealEstate
 * Website Link: https://findmynest.netlify.app/
 
