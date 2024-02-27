@@ -11,5 +11,9 @@
 }
 
 body {
-  background-color: rgb(237, 237, 237);
+  /* background-color: rgb(237, 237, 237); */
+  /* background: linear-gradient(110deg, #E2AC6B 30%, #E0D2B4 100%); */
+  background-color: #da898c;
+background-image: linear-gradient(147deg, #da898c 0%, #59090c 74%);
+
 }
